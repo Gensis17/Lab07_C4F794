@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lab07/lab07.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
